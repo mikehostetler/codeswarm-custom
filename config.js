@@ -10,5 +10,10 @@ module.exports = [
     label: 'Test scripts (one per line)',
     type: 'text',
     required: true
+  },
+  {
+    name: 'expect_tap',
+    label: 'Expect TAP output',
+    type: 'checkbox'
   }
 ];
