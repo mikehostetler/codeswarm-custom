@@ -1,0 +1,19 @@
+{
+  "name": "codeswarm-custom",
+  "version": "0.0.1",
+  "description": "Plugin for testing using the command line in CodeSwarm",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/CodeSwarm/codeswarm-custom.git"
+  },
+  "author": "CodeSwarm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CodeSwarm/codeswarm-custom/issues"
+  },
+  "homepage": "https://github.com/CodeSwarm/codeswarm-custom",
+  "dependencies": {
+    "async": "~0.2.10"
+  }
+}
