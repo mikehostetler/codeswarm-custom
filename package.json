@@ -8,7 +8,7 @@
     "url": "git://github.com/CodeSwarm/codeswarm-custom.git"
   },
   "author": "CodeSwarm",
-  "license": "MIT",
+  "license": "Apache 2",
   "bugs": {
     "url": "https://github.com/CodeSwarm/codeswarm-custom/issues"
   },
@@ -16,5 +16,14 @@
   "dependencies": {
     "async": "~0.2.10",
     "tap-parser": "~0.4.3"
-  }
+  },
+  "devDependencies": {
+		"mocha": "^1.18.2"
+	},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "codeswarm"
+  ]
 }
